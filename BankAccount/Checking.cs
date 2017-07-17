@@ -37,9 +37,6 @@ namespace BankAccount
 
         // default constructor
         public Checking()
-
-
-
         {
 
         }
